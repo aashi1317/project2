@@ -1,4 +1,3 @@
 # new project
 
-this project was created from local system.
-created by Aashi Tyagi
+this project was created from local system.created by Aashi Tyagi
